@@ -41,6 +41,12 @@ The dataset contains two files:
 
 The two datasets were merged using `Order ID`.
 
+### Dataset Source
+
+The dataset used in this project is the Madhav E-Commerce Sales Dataset available on Kaggle.
+
+The dataset was used for educational and portfolio analysis.
+
 ---
 
 ## 🔄 Data Preparation
