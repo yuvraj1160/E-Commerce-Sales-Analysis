@@ -107,14 +107,17 @@ Compared sales, profit and activity across different payment modes.
 
 The project includes visualizations for:
 
-- Sales vs Profit by Category
-- Monthly Sales Trend
-- Top Cities by Sales
-- Top Cities by Profit
-- Sales by Payment Mode
-- Profit Margin by Category
+### Sales vs Profit by Category
 
----
+![Sales vs Profit by Category](images/category_sales_profit.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+### Top 10 Cities by Sales
+
+![Top 10 Cities by Sales](images/top_cities_sales.png)
 
 ## 🚀 Future Improvements
 
